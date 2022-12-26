@@ -1,0 +1,10 @@
+Bug report:
+ID. 
+Environment.
+Title.
+Steps to reproduce.
+Expected result.
+Actual result.
+Severity.
+Priority.
+Attachments.
