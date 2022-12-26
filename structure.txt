@@ -1,0 +1,7 @@
+Checklist:
+1. Title.
+2. Status.
+3. Test type.
+4. Environment.
+5. Date.
+6. Tester.
